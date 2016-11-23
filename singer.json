@@ -1,73 +1,197 @@
 [
 {
    "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
+   "name_singer": "عبدالعزيز القاتوله",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/abdalaziz_alqatolah.png"
    
  },
  {
-  "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
+   "id": 2,
+   "name_singer": "عبدالعزيز الذيابي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/abdalaziz_ahthiaby.png"
+   
+ },{
+   "id": 3,
+   "name_singer": "عبدالعزيز اليامي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/abdalaziz_alyami.png"
+   
+ },{
+   "id": 4,
+   "name_singer": "عبدالله العازمي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/abdallah_al3azmy.png"
+   
+ },{
+   "id": 5,
+   "name_singer": "عبدالله المسلط",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/abdallah_almuslt.png"
+   
+ },{
+   "id": 6,
+   "name_singer": "عادل القرشي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/adel_alqrshy.png"
+   
+ },{
+   "id": 7,
+   "name_singer": "احمد مهدي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/ahmed_mahdy.png"
+   
+ },{
+   "id": 8,
+   "name_singer": "عبدالعزيز العليوي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/al3lioi.png"
+   
+ },{
+   "id": 9,
+   "name_singer": "العذب",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/al3thb.png"
+   
+ },{
+   "id": 10,
+   "name_singer": "علي البريكي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/ali_albriky.png"
+   
+ },{
+   "id": 11,
+   "name_singer": "بندر بن عوير",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/bandr_3oir.png"
+   
+ },{
+   "id": 12,
+   "name_singer": "فهد بن فصلا",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/fahd_fa9la.png"
+   
+ },{
+   "id": 13,
+   "name_singer": "فهد مطر",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/fahd_ma6r.png"
+   
+ },{
+   "id": 14,
+   "name_singer": "فياض فهد",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/fiath_fahd.png"
+   
+ },{
+   "id": 15,
+   "name_singer": "فلاح المسردي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/fla7.png"
+   
+ },{
+   "id": 16,
+   "name_singer": "محمد بن غرمان العمري",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/grman.png"
+   
+ },{
+   "id": 17,
+   "name_singer": "غزاي بن سحاب",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/gzay_ben_s7ab.png"
+   
+ },{
+   "id": 18,
+   "name_singer": "حاكم الشيباني",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/hakim_shibany.png"
+   
+ },{
+   "id": 19,
+   "name_singer": "حمد البريدي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/hamed_bridy.png"
+   
+ },{
+   "id": 20,
+   "name_singer": "هزاع المهلكي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/haza3_almhlky.png"
+   
+ },{
+   "id": 21,
+   "name_singer": "حسين ال لبيد",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/hussin_labid.png"
+   
  },
  {
-  "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
+   "id": 22,
+   "name_singer": "ابراهيم الشعيلي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/ibrahim_sh3ili.png"
+   
+ },{
+   "id": 23,
+   "name_singer": "جابر بن صبح",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/jaber_sb7.png"
+   
+ },{
+   "id": 24,
+   "name_singer": "الجفراني",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/jafrani.png"
+   
  },
  {
-  "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
+   "id": 25,
+   "name_singer": "خالد ال بريك",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/khaled_al_breek.png"
+   
  },
  {
-  "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
- },
- {
-  "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
- },
- {
-  "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
- },
- {
-  "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
- },
- {
-  "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
- },
- {
-  "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
- },
- {
-  "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
- },
- {
-  "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
- },
- {
-  "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
- },
- {
-  "id": 1,
-   "name_singer": "سلفي",
-   "url_image": "http://f.top4top.net/m_323rj93k0.mp3"
+   "id": 26,
+   "name_singer": "خالد الساطوح",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/khaled_sa6o7.png"
+   
+ },{
+   "id": 27,
+   "name_singer": "خالد الشليه",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/khalid_shliah.png"
+   
+ },{
+   "id": 28,
+   "name_singer": "مهنا العتيبي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/mhna.png"
+   
+ },{
+   "id": 29,
+   "name_singer": "معاذ الجماز",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/mo3ath_aljamaz.png"
+   
+ },{
+   "id": 30,
+   "name_singer": "محمد ال نجم",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/mohammed_al_nagm.png"
+   
+ },{
+   "id": 31,
+   "name_singer": "مشاري بن نوفل",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/mshary_ben_nofl.png"
+   
+ },{
+   "id": 32,
+   "name_singer": "راجح الحارثي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/raji7.png"
+   
+ },{
+   "id": 33,
+   "name_singer": "راشد ال سالم",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/rashid_alsalem.png"
+   
+ },{
+   "id": 34,
+   "name_singer": "سيف العضياني",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/saif_al3thiany.png"
+   
+ },{
+   "id": 35,
+   "name_singer": "صالح اليامي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/salah_alyami.png"
+   
+ },{
+   "id": 36,
+   "name_singer": "صالح الزهيري",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/salah_alzahiry.png"
+   
+ },{
+   "id": 37,
+   "name_singer": "شبل الدواسر",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/shbl_aldoaser.png"
+   
+ },{
+   "id": 38,
+   "name_singer": "سلطان البريكي",
+   "url_image": "https://raw.githubusercontent.com/zainmasoud/J/master/img/sul6an_briky.png"
+   
  }
 ]
